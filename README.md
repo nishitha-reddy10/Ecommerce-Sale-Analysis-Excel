@@ -81,7 +81,7 @@ The business required a centralized reporting dashboard to monitor sales perform
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](Ecommerce-Sale-Analysis-Excel/Screenshot.png)
 
 ---
 
